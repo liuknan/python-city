@@ -1,3 +1,6 @@
 def draw_museum():
-    print("museum not found")
+    print(" ------ ")
+    print("|Museum|")
+    print(" ------ ")
+
     return
