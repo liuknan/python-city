@@ -55,5 +55,3 @@ def draw_museum(direction, length):
                 print(" --- ")
     return
 
-
-draw_museum("Vertical", 10)
